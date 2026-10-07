@@ -29,7 +29,7 @@ and operational details.
 
 ## Background
 
-At GSK, I develop internal APIs and data-oriented applications on Google Cloud,
-build migration and automation tooling, and help modernize legacy systems. My
-work has included Python and Go services, CI/CD,
-observability, and reusable engineering tooling shared across repositories.
+At GSK, I build internal Python and Go services on Google Cloud, including APIs
+for scientific workloads and data-oriented applications. My work also covers
+migration tooling, legacy-system modernization, CI/CD, observability, and
+technical ownership of application used by hundreds of users.
